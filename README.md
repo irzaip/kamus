@@ -1,0 +1,2 @@
+# kamus
+project pemenggalan sukukata.
